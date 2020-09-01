@@ -9,5 +9,6 @@ Introduction
 Result
 --
 
-![](https://i.imgur.com/jRJ9MZD.jpg)
+![](https://github.com/silence0925/Text-Mining/blob/master/img/1.png)
 
+![](https://github.com/silence0925/Text-Mining/blob/master/img/2.png)
